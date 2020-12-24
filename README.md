@@ -1,4 +1,4 @@
-# Corner Detection, HOG Feature Extraction And Feature Comparison
+# Corner Detection and HOG Feature Comparison
 
 Objectives:
 1. Gaussian Noise and Smoothing
