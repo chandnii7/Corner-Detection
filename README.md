@@ -3,7 +3,7 @@
 Objectives:
 1. Gaussian Noise and Smoothing
 2. Harris Corner Detection
-3. Non-maximum Supression
+3. Non-maximum Suppression
 4. Corner Localization
 5. Extract Feature Vectors using HOG
 6. Feature Comparison
@@ -14,7 +14,7 @@ Interactively controlled parameters:
 * Smoothing value for gaussian smoothing (filter size)
 * Neighborhood size for computing the correlation matrix
 * Weight of the trace in the Harris corner detection
-* Threshold value for non-maximum supression
+* Threshold value for non-maximum Suppression
 <br/>
 
 Program was implemented using Python and OpenCV. Refer the report for further implementation details and instructions to run the code:
