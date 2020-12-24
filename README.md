@@ -18,7 +18,7 @@ Interactively controlled parameters:
 <br/>
 
 Program was implemented using Python and OpenCV. Refer the report for further implementation details and instructions to run the code:
-<a href="https://github.com/chandnii7/ImageProcessing/blob/main/doc/Report_A1_Chandni_Patel.pdf">View Report</a>
+<a href="https://github.com/chandnii7/CornerDetection/blob/main/doc/Report_A2_Chandni_Patel.pdf">View Report</a>
 <br/><br/>
 
 ### Results:
