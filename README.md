@@ -26,10 +26,10 @@ Program was implemented using Python and OpenCV. Refer the report for further im
 <table>
 <tr>
 <td>
-<img src="https://github.com/chandnii7/CornerDetection/blob/main/data/out1.jpg" height="400" width="400"/>
+<img src="https://github.com/chandnii7/CornerDetection/blob/main/data/out1.jpg" height="300" width="300"/>
 </td>
 <td>
-<img src="https://github.com/chandnii7/CornerDetection/blob/main/data/out2.jpg" height="400" width="400"/>
+<img src="https://github.com/chandnii7/CornerDetection/blob/main/data/out2.jpg" height="300" width="300"/>
 </td>
 </tr>
 <tr>
@@ -47,10 +47,10 @@ OpenCV
 <table>
 <tr>
 <td>
-<img src="https://github.com/chandnii7/CornerDetection/blob/main/data/out3.jpg" height="400" width="400"/>
+<img src="https://github.com/chandnii7/CornerDetection/blob/main/data/out3.jpg" height="300" width="300"/>
 </td>
 <td>
-<img src="https://github.com/chandnii7/CornerDetection/blob/main/data/out4.jpg" height="400" width="400"/>
+<img src="https://github.com/chandnii7/CornerDetection/blob/main/data/out4.jpg" height="300" width="300"/>
 </td>
 </tr>
 <tr>
@@ -68,10 +68,10 @@ OpenCV
 <table>
 <tr>
 <td>
-<img src="https://github.com/chandnii7/CornerDetection/blob/main/data/out5.jpg" height="400" width="400"/>
+<img src="https://github.com/chandnii7/CornerDetection/blob/main/data/out5.jpg" height="300" width="250"/>
 </td>
 <td>
-<img src="https://github.com/chandnii7/CornerDetection/blob/main/data/out6.jpg" height="400" width="400"/>
+<img src="https://github.com/chandnii7/CornerDetection/blob/main/data/out6.jpg" height="300" width="250"/>
 </td>
 </tr>
 <tr>
