@@ -1,11 +1,11 @@
-# Corner Detection And Feature Comparison
+# Corner Detection, HOG Feature Extraction And Feature Comparison
 
 Objectives:
 1. Gaussian Noise and Smoothing
 2. Harris Corner Detection
 3. Non-maximum Suppression
 4. Corner Localization
-5. Extract Feature Vectors using HOG
+5. Extract Feature Vectors with HOG
 6. Feature Comparison
 <br/>
 
